@@ -14,7 +14,7 @@ namespace Entities.Concrete
         public string QuantityPerUnit { get; set; }
         public decimal UnitPrice { get; set; }
         public short UnitsInStock { get; set; }
-        public int MyProperty { get; set; }
+        
     }
 
 }
